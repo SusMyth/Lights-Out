@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="LightsOutGUI" type="Application" factoryName="Application" nameIsGenerated="true">
     <option name="MAIN_CLASS_NAME" value="gui.LightsOutGUI" />
-    <module name="LightsOut" />
+    <module name="Lights-Out" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="gui.*" />
